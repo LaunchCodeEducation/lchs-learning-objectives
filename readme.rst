@@ -1,0 +1,2 @@
+LCHS Goals and Objectives
+=========================
