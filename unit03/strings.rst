@@ -5,7 +5,8 @@ Goals
 -----
 
 - Understand that strings are ordered *collections*.
-- Work with strings using bracket notation and common string methods.
+- Work with strings using bracket notation, iteration, and common string
+  methods.
 - Compare strings to each other.
 
 Objectives
@@ -16,6 +17,8 @@ Students will:
 - Understand and correctly interpret **zero-based indexing**.
 - Understand that strings are indexed collections.
 - Use bracket notation and index values to access a subset of a string.
+- Use iteration to loop through the characters within a string.
+- Use the **accumulator pattern** to build a new string.
 - Describe what it means for strings to be **immutable**.
 - Recognize that reassigning a new string to a variable does not violate the
   idea of string immutability.
@@ -29,8 +32,8 @@ Students will:
 - Use the ``format()`` method to insert values into a string.
 - Use other common string methods: ``count()``, ``find()``, ``index()``,
   ``lower()``, ``replace()``, ``strip()``, ``upper()``.
-- Use ``split()``, ``list()`` and ``join()`` to convert a string to a list or a
-  list to a string.
+- Use ``split()`` and ``list()`` to convert a string into a list of string
+  elements.
 - Use boolean methods like ``isalpha()`` and ``islower()`` to check the state
   of a string.
 - Import the ``string`` module to access specific collections of characters
