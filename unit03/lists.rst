@@ -22,7 +22,7 @@ Students will:
   a list.
 - Use iteration to loop through the elements within a list.
 - Recognize that lists are **mutable**, and describe what that means.
-- Find the length of an list using the ``len()`` function.
+- Find the length of a list using the ``len()`` function.
 - Understand what ``index out of range`` errors mean, and how to fix them.
 - Use the **accumulator pattern** to increase or decrease the size of a list.
 - Use common list methods: ``append()``, ``clear()``, ``count()``, ``index()``,
