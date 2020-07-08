@@ -4,7 +4,7 @@ Unit 4 - Modules Learning Objectives
 Goals
 -----
 
-- Import pre-defined Python modules into new programs 
+- Import predefined Python modules into new programs 
 - Create user-defined modules to export to other programs
 
 Objectives
