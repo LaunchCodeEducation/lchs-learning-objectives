@@ -23,3 +23,9 @@ Unit 4
 
 - `Functions <unit04/functions.rst>`__
 - `Modules <unit04/modules.rst>`__
+
+Unit 5
+------
+
+- `Dictionaries <unit05/dictionaries.rst>`__
+- `Classes and Objects <unit05/classes&objects.rst>`__
