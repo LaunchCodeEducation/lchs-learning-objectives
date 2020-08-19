@@ -15,7 +15,7 @@ Objectives
 Students will:
 
 - Understand that objects are collections of **properties** and **methods**.
-- Recognize that *properties* are data, while *methods* define the actins the
+- Recognize that *properties* are data, while *methods* define the actions the
   object can take.
 - Access and modify object properties using dot-notation.
 - Call an object method using dot-notation.
