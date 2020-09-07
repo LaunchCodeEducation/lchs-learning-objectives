@@ -26,7 +26,7 @@ Students will:
 - Use the ``self`` keyword within a class to reference the object.
 - Use ``__init__`` and ``self`` to define initial properties within a class.
 - Add custom methods to a class using the ``def`` keyword.
-- Define a ``__str__`` or ``__repr__`` method for a given class to describe how
+- Define a ``__str__`` method for a given class to describe how
   to deal with printing an object.
 - Be able to declare a new **instance** of a class object.
 - Use objects as arguments, parameters, or return values of functions.
@@ -40,5 +40,5 @@ Students will:
 
 - Understand **inheritance**.
 - Know how to create a **child class** (*subclass*) that shares properties
-  with a more general **parent class** (*superclass*).
-- Use ``super()`` in a subclass to call ``__init__`` from the superclass.
+  with a more general **parent class**.
+- Use ``super()`` in a child class to call ``__init__`` from the parent.

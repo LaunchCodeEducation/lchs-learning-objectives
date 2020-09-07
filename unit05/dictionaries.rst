@@ -21,7 +21,7 @@ Students will:
 - Use bracket notation to add new key/value pairs to a dictionary.
 - Use the ``.keys()``, ``.values()``, and ``.items()`` methods to retrieve a
   list of the keys, values, or key/value pairs from a dictionary.
-- Use a loop to iterate through the keys, values, or key/value paris of a
+- Use a loop to iterate through the keys, values, or key/value pairs of a
   dictionary.
 - Utilize dictionaries as parameters, arguments, and return values of
   functions.
