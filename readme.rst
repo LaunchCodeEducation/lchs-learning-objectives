@@ -29,3 +29,9 @@ Unit 5
 
 - `Dictionaries <unit05/dictionaries.rst>`__
 - `Classes and Objects <unit05/classes&objects.rst>`__
+
+Unit 6
+------
+
+- `HTML <unit06/html.rst>`__
+- `CSS & Bootstrap <unit06/css.rst>`__
