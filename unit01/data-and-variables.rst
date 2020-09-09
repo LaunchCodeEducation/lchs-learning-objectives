@@ -4,7 +4,7 @@ Unit 1 - Data & Variables Learning Objectives
 Goals
 -----
 
-- Identify three primitive data types---``int, str, float``.
+- Identify three primitive data types---``int``, ``str``, and ``float``.
 - Use variables to store program data.
 - Carry out simple numeric calculations with code.
 - Collect user input from the console.
@@ -20,7 +20,7 @@ Students will be able to:
 - Explain what a **value** is.
 - Explain what a **data type** is.
 - Determine the data type of a value using ``type()``.
-- Identify three common data types: ``int, str, float``.
+- Identify three common data types: ``int``, ``str``, and ``float``.
 - Convert between data types using the ``int()``, ``str()``, and ``float()``
   functions.
 
@@ -39,7 +39,7 @@ Students will be able to:
 - Correctly build and evaluate expressions using the math **operators**: ``+``,
   ``-``, ``/``, ``*``, ``**``, ``//``, and ``%``.
 - Evaluate expressions using **compound assignment operators**: ``+=``, ``-=``,
-  ``*=``, ``/=``.
+  ``*=``, and ``/=``.
 - Explain what the modulus operator ``%`` does.
 - Recognize that Python evaluates expressions based on the rules for order of
   operations.
