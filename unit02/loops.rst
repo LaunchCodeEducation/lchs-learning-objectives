@@ -17,7 +17,7 @@ Objectives
 Students will be able to:
 
 - Describe the role of each of the 3 components of the ``range`` type:
-  ``start``, ``stop``, ``step``.
+  ``start``, ``stop``, and ``step``.
 - Recognize that only the ``stop`` component in ``range`` is required.
 - Explain what **zero-based indexing** means, and provide examples.
 - Write a ``for`` loop with ``range(start, stop)`` to iterate upwards
