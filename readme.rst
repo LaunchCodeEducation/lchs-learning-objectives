@@ -11,6 +11,7 @@ Unit 2
 
 - `Conditionals <unit02/conditionals.rst>`__
 - `Loops <unit02/loops.rst>`__
+<<<<<<< HEAD
 
 Unit 3
 ------
@@ -18,3 +19,5 @@ Unit 3
 - `Strings <unit03/strings.rst>`__
 - `Lists <unit03/lists.rst>`__
 - `Debugging <unit03/debugging.rst>`__
+=======
+>>>>>>> master
