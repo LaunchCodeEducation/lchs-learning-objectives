@@ -4,12 +4,13 @@ LCHS Goals and Objectives
 Unit 1
 ------
 
-Lorem ipsum...
+- `Data & Variables <unit01/data-and-variables.rst>`__
 
 Unit 2
 ------
 
-Lorem ipsum...
+- `Conditionals <unit02/conditionals.rst>`__
+- `Loops <unit02/loops.rst>`__
 
 Unit 3
 ------
