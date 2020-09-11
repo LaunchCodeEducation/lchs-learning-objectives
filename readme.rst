@@ -10,3 +10,4 @@ Unit 2
 ------
 
 - `Conditionals <unit02/conditionals.rst>`__
+- `Loops <unit02/loops.rst>`__
