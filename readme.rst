@@ -4,7 +4,7 @@ LCHS Goals and Objectives
 Unit 1
 ------
 
-Lorem ipsum...
+- `Data & Variables <unit01/data-and-variables.rst>`__
 
 Unit 2
 ------
