@@ -12,6 +12,7 @@ Objectives
 
 Students will:
 
+- Write a properly-structured document head.
 - Know what **CSS** stands for.
 - Explain how CSS allows us to separate the display and document structure.
 - Describe the 3 locations where style rules may be placed: *external, document, inline*.
