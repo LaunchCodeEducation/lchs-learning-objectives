@@ -34,8 +34,7 @@ Students will:
   ``lower()``, ``replace()``, ``strip()``, ``upper()``.
 - Use ``split()`` and ``list()`` to convert a string into a list of string
   elements.
-- Use boolean methods like ``isalpha()`` and ``islower()`` to check the state
-  of a string.
+- Use boolean methods like ``islower()`` to check the state of a string.
 - Import the ``string`` module to access specific collections of characters
   (e.g. ``string.ascii_lowercase``, ``string.digits``, etc.). 
 - Use the ``in`` operator to check if a specific string is present in a larger
