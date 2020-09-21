@@ -23,6 +23,6 @@ Students will:
 - Explain what a ``return`` statement does.
 - Use a ``return`` statement to complete the execution of a function.
 - Use a ``return`` statement to provide a value to the function call.
-- Understand *variable scope* in relation to functions.
+- Understand **variable scope** in relation to functions.
 - Explain what **variable shadowing** is, and know how to avoid it.
 - Write a function that calls another function.
