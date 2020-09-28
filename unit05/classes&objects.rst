@@ -39,6 +39,6 @@ The following objectives may be included at the teacher's discretion.
 Students will:
 
 - Understand **inheritance**.
-- Know how to create a **child class** (*subclass*) that shares properties
-  with a more general **parent class**.
+- Know how to create a **child class** (also called a **subclass**) that shares
+  properties with a more general **parent class**.
 - Use ``super()`` in a child class to call ``__init__`` from the parent.
