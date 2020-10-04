@@ -36,3 +36,9 @@ Unit 6
 
 - `HTML <unit06/html.rst>`__
 - `CSS & Bootstrap <unit06/css.rst>`__
+
+Unit 7
+------
+
+- `Terminal & Visual Studio Code <unit07/terminal.rst>`__
+- `Git & GitHub <unit07/git.rst>`__
