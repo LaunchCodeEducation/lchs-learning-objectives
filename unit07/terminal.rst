@@ -6,7 +6,7 @@ Goals
 
 - Understand what the terminal is and how to use it.
 - Become familiar with the Visual Studio Code workspace.
-- Create and save programs locally, and run them from VSCode.
+- Create and save programs locally, and run them from VS Code.
 
 Objectives
 ----------
@@ -35,9 +35,9 @@ Students will:
 - Understand what **local development** means and explain how it differs from
   working in repl.it or Trinket.
 - Know how to use the **code editor** and **file tree** panels in Visual Studio
-  Code (VSCode).
-- Be able to open up the terminal in VSCode.
-- Create, save, open, and run Python programs in VSCode.
+  Code (VS Code).
+- Be able to open up the terminal in VS Code.
+- Create, save, open, and run Python programs in VS Code.
 - Understand how to import Python modules from the same folder or from
   different folders in the file tree.
 - Create HTML/CSS files locally and display them in a browser.

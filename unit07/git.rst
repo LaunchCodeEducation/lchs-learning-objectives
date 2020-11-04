@@ -27,23 +27,23 @@ Students will:
   **log**.
 - Initialize a new Git repository.
 - Commit to a local repository.
-- Explain the two Git file statuses: tracked and untracked
+- Explain the two Git file statuses: **tracked** and **untracked**.
 - Explain what types of changes should be within a commit.
 - Explain some common use cases for branches.
-- Identify the master branch as the default branch for most projects.
+- Identify the ``main`` branch as the default branch for most projects.
 - Create a new Git branch.
 - Checkout a branch.
 - Use ``git stash`` and ``git stash pop`` to move unsaved content between
   branches.
 - Merge one branch into another.
+- Describe how to recognize and resolve merge conflicts.
 
 GitHub
 ^^^^^^
 
 Students will:
 
-- Describe what a remote repository is
-- Clone a project from a remote Git repository
-- Create and push to a remote repository from a local repository
+- Describe what a remote repository is.
+- Clone a project from a remote Git repository.
+- Create and push to a remote repository from a local repository.
 - Collaborate with a partner to build up a shared, remote repository.
-- Describe how to recognize and resolve merge conflicts.
