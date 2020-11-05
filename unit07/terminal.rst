@@ -1,5 +1,5 @@
-Unit 7 - Terminal Learning Objectives
-=====================================
+Unit 7 - Local Development Objectives (Terminal)
+================================================
 
 Goals
 -----
@@ -21,3 +21,16 @@ Students will:
 - Be able to check which version(s) of Python are available on their device.
 - Run Python programs from the terminal.
 - Understand how to stop processes that are running in the terminal.
+
+Note To Administrators
+----------------------
+
+If your school district places restrictions on student devices, the IT
+department must make sure that all required software is installed prior to
+student use.
+
+For desktops/laptops, this includes Visual Studio Code, GitBash (Windows) or
+Git (Mac), and the latest stable version of Python.
+
+For Chromebooks, students will need access to a Virtual Desktop that contains
+the required software.
