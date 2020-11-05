@@ -36,3 +36,16 @@ Unit 6
 
 - `HTML <unit06/html.rst>`__
 - `CSS & Bootstrap <unit06/css.rst>`__
+
+Unit 7
+------
+
+- `Terminal <unit07/terminal.rst>`__
+- `Local Development <unit07/local-dev.rst>`__
+- `Git & GitHub <unit07/git.rst>`__
+
+Unit 8
+------
+
+- `The Internet <unit08/http.rst>`__
+- `HTTP & Forms <unit08/user-input.rst>`__
