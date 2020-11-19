@@ -5,8 +5,7 @@ Goals
 -----
 
 - Use web forms to obtain user data.
-- Apply knowledge of HTTP to create effective form-based code.
-- Use best practices to create secure, user-friendly forms.
+- Create secure, user-friendly forms.
 
 Objectives
 ----------
@@ -16,13 +15,17 @@ Students will:
 - Create a form using HTML/CSS code.
 - Understand the main ``<form>`` tag attributes: ``action`` and ``method``.
 - Understand and describe form submission.
+- Set up a form to submit either a ``GET`` or ``POST`` request.
 - Distinguish between the ``input``, ``select``, and ``textarea`` HTML
   elements.
-- Properly use common ``<input>`` tag attributes: ``text``, ``submit``,
-  ``radio``, ``checkbox``, ``password``, ``email``, ``placeholder``. 
-- Use ``label`` elements to add human-readable labels to form inputs.
+- Recognize the common values for the input ``type`` attribute: ``text``,
+  ``submit``, ``number``, ``date``, ``radio``, ``checkbox``, ``password``,
+  ``email``, ``name``, ``id``.
+- Properly use common ``<input>`` tag attributes: ``type``, ``value``, ``min``,
+  ``max``, ``placeholder``, ``selected``, ``checked``, ``disabled``.
+- Use ``label`` elements to add human-readable text to form inputs.
 - Use the ``name`` attribute to identify inputs in the submitted data.
-- Use the ``require`` attribute to prevent form submission if certain data is
+- Use the ``required`` attribute to prevent form submission if certain data is
   missing.
 - Be able to look up other HTML5 input attributes to validate different data
   types before submission.

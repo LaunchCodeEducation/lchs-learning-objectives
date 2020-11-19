@@ -4,7 +4,7 @@ Unit 8 - HTTP & Forms (How the Internet Works)
 Goals
 -----
 
-- Understand how the HTTP protocol enables web communication
+- Understand how the HTTP protocol enables web communication.
 
 Objectives
 ----------
@@ -12,7 +12,7 @@ Objectives
 Students will:
 
 - Identify the main parts of a URL and describe the role of each: **protocol**,
-  **host**, **port**, **path**, **query parameter**, **fragment**.
+  **host**, **port**, **path**, **query parameter**.
 - Describe the role of web servers in providing web content.
 - Understand the request/response flow of HTTP.
 - Identify and explain the basic role of the components of network
@@ -24,4 +24,5 @@ Students will:
 - Describe the meaning of HTTP response headers.
 - Describe common response headers: ``content-length``, ``content-type``.
 - Explain the flow of an HTTP request made from a web browser.
-- Explain how resource loading occurs in web pages (e.g. scripts and images).
+- Explain how resource loading occurs in web pages (e.g. text, scripts,
+  images).
