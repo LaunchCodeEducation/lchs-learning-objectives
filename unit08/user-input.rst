@@ -23,7 +23,8 @@ Students will:
   ``email``, ``name``, ``id``.
 - Properly use common ``<input>`` tag attributes: ``type``, ``value``, ``min``,
   ``max``, ``placeholder``, ``selected``, ``checked``, ``disabled``.
-- Use ``label`` elements to add human-readable text to form inputs.
+- Use a ``label`` element to indicate what information should go into a
+  particular input field.
 - Use the ``name`` attribute to identify inputs in the submitted data.
 - Use the ``required`` attribute to prevent form submission if certain data is
   missing.
