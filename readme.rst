@@ -49,3 +49,9 @@ Unit 8
 
 - `The Internet <unit08/http.rst>`__
 - `HTTP & Forms <unit08/user-input.rst>`__
+
+Unit 9
+------
+
+- `The Internet <unit09/flask-intro.rst>`__
+- `HTTP & Forms <unit09/more-flask.rst>`__
