@@ -12,17 +12,24 @@ Objectives
 
 Students will:
 
-- Understand what an HTML **template** is.
-- Describe the benefits of using templates with Flask.
-- Build stand-alone templates using the **Jinja2** environment.
+- Describe what an HTML **template** is and how it differs from a stand-alone
+  HTML file.
+- Build templates using the **Jinja2** environment.
 - Add variables inside a Jinja2 template.
-- Upon validation errors, render a form with valid data left in-place.
 - Describe why HTML escaping is necessary when putting user-submitted data in
   an HTTP response.
-- Use **autoescaping** within Jinja2 templates.
-- Use conditionals and loops within Jinja2 templates.
+- Recognize that **autoescaping** occurs within Jinja2 templates.
+- Use loops and conditionals within Jinja2 templates.
+- Reuse common HTML code by defining a **base template** and **content blocks**.
 - Create a multi-page, interactive website using Flask and Jinja2 templates.
-- Create Jinja2 templates that use **base templates** and **content blocks**.
+- Return a ``redirect`` response.
+- Describe when to use the ``redirect()`` function instead of
+  ``render_template()``.
 - Add links to related templates to allow users to easily navigate between
   them.
-- Return a ``redirect`` response.
+- Describe the difference between the **user interface (UI)** and the
+  **user experience (UX)**.
+- Browse different websites and evaluate the quality of the UI and UX.
+- Describe ways to improve the user experience.
+- Upon validation errors, render a form that displays error messages and leaves
+  valid data in place.

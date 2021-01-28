@@ -16,6 +16,7 @@ Students will:
 - Explain what a **web application** does.
 - Create and run a basic Flask application.
 - Set up a simple HTML **template** and ``render`` it with Flask.
+- Describe the benefits of using templates with Flask.
 - Create handlers in Flask for ``GET`` and ``POST`` request types.
 - Pass data between templates and a Flask application.
 - Use the ``value`` attribute to specify the data sent to the server upon form
