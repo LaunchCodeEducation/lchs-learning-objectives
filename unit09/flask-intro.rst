@@ -27,6 +27,6 @@ Students will:
   validation.
 - Describe why they must validate form submissions, even when they limit
   the options in a form.
-- Validate request data based on numeric range or string length.
+- Validate form data based on numeric range or string length.
 - Return descriptive error messages within an HTML page whenever form data is
   invalid.
