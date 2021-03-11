@@ -61,4 +61,3 @@ Unit 10
 
 - `Flask Sessions <unit10/sessions.rst>`__
 - `Databases & SQL <unit10/sql-intro.rst>`__
-- `The SQL Sequel <unit10/more-sql.rst>`__
