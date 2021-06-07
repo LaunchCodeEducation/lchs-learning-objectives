@@ -60,5 +60,5 @@ Unit 10
 -------
 
 - `Cookies & Sessions <unit10/sessions.rst>`__
-- `Databases & SQL <unit10/database-intro.rst>`__
-- `SQLite In Action <unit10/sqllite.rst>`__
+- `Databases <unit10/database-intro.rst>`__
+- `Build a Minesweeper Game <unit10/sqllite.rst>`__
