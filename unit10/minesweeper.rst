@@ -1,16 +1,16 @@
-Unit 10 - Build a Minesweeper Game
-==================================
+Unit 10 - Database Project
+==========================
 
 Goals
 -----
 
-- Use SQLite3 to setup and manage a local database.
-- Build a Minesweeper game.
+- Use SQLite to set up and manage a local database.
+- Build a Minesweeper game!
 
 Objectives
 ----------
 
-Students will follow chapter instructions to:
+Students will follow the chapter instructions to:
 
 - Setup a new local database.
 - Construct Jinja3 templates for a Minesweeper home page and a game board.

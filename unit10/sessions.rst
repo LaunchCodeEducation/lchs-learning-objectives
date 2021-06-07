@@ -24,6 +24,6 @@ Students will:
 - Understand the differences between cookies and Flask **sessions**.
 - Open a Flask session and use it to store selected data on the server.
 - Recognize the differences between using ``render_template`` and ``session``
-  to move data between Python code and a Jinja2 template.
+  to move data between Python code and a Jinja3 template.
 - Update an old Python console application to run in a browser. The app will
   use sessions to store data.
